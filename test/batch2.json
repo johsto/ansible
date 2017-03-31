@@ -1,10 +1,13 @@
-{ "users":
-	{ "username" : "allavo_bat",
-      	"uid" : "6205",
-      	"gid" : "7149"
+{
+  "users": [
+	{
+	       	"username" : "allavo_bat",
+      		"uid" : "6205",
+      		"gid" : "7149"
     	},
-	{ "username" : "arild_bat",
-      	"uid" : "7074",
-      	"gid" : "7149"
+	{ 	"username" : "arild_bat",
+      		"uid" : "7074",
+      		"gid" : "7149"
     	}
+ ]
 }
